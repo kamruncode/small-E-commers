@@ -1,0 +1,119 @@
+.footer-container {
+  color: #fff;
+  background-color: rgba(24, 28, 16, 0.925);
+  padding: 5rem 0px;
+  margin-top: 15rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 30rem;
+  width: 100vw;
+}
+
+.footer-container .footer-top {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 60rem;
+}
+
+.footer-container .footer-top .Twitter-u,
+.footer-container .footer-top .Newsletter-S,
+.footer-container .footer-top .shopping {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 33%;
+}
+
+.footer-container .footer-top .Twitter-u .title,
+.footer-container .footer-top .Newsletter-S .title,
+.footer-container .footer-top .shopping .title {
+  width: 92%;
+  padding-bottom: 10px;
+  border-bottom: 1px dashed #0c2b2b;
+  font-size: 1.6rem;
+}
+
+.footer-container .footer-top .Twitter-u p,
+.footer-container .footer-top .Newsletter-S p,
+.footer-container .footer-top .shopping p {
+  width: 95%;
+}
+
+.footer-container .footer-top .Twitter-u button {
+  cursor: pointer;
+  width: 70%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 5px 10px;
+  font-size: 1rem;
+}
+
+.footer-container .footer-top .Twitter-u button img {
+  margin-right: 5px;
+  border-radius: 5px;
+  max-height: 2rem;
+}
+
+.footer-container .footer-top .Newsletter-S form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.footer-container .footer-top .Newsletter-S form input[type="email"] {
+  width: 85%;
+  height: 1.7rem;
+  margin: 1rem 0px;
+}
+
+.footer-container .footer-top .Newsletter-S form button {
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  width: 30%;
+  padding: 0.3rem 0.8rem;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ff4141), to(#f59696));
+  background-image: linear-gradient(#ff4141, #f59696);
+}
+
+.footer-container .footer-top .Newsletter-S form button:hover {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f59696), to(#ff4141));
+  background-image: linear-gradient(#f59696, #ff4141);
+}
+
+.footer-container .shopping .shops {
+  width: 12rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.footer-container .shopping .shops span {
+  margin: 0px 10px;
+  font-size: 2.5rem;
+}
+/*# sourceMappingURL=Footer.css.map */
