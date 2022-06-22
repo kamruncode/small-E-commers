@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.shop-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid #000;
+  width: 62vw;
+  height: 95vh;
+  overflow-y: scroll;
+}
+.card-container {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  border: 1px solid #000;
+  width: 35vw;
+  height: 95vh;
+  overflow-y: scroll;
+}
+
+h1 {
+  position: absolute;
+  bottom: 0.8rem;
+  left: 0.8rem;
+}

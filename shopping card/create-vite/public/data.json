@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Unisex baseball cap with the letter A, Hip-hop Style",
+    "info": "the caps went for more than a month, the track is almost not the caps went for more, an air bag, everything was kept in shape well! BUT there is, so much to wait and get not what I wanted.but it's okay, I opened a dispute, and returned some of the money that I spent on the road, and gave the cap to my little brother...2 caps came in one package, an air bag, everything was kept in shape well! BUT there is 1 BUT.. I bought both caps of size 8, 1 came ",
+    "image": "../src/images/cap.jpg",
+    "price": 129
+  },
+  {
+    "id": 2,
+    "title": "Fashion Watch Women Luxury Simple Steel Band",
+    "info": "2022 New Fashion Watch Women Luxury Simple Steel Band Watch Wristwatch Ladies Big Dial Quartz Clock Bracelet Watch Set Reloj2022 New Fashion Watch Women Luxury Simple Steel Band Watch Wristwatch Ladies Big Dial Quartz Clock Bracelet Watch Set Reloj",
+    "image": "../src/images/clock.jpg",
+    "price": 143
+  },
+  {
+    "id": 3,
+    "title": "Jackets Thick Fleece Military",
+    "info": "Solid Color Men Parkas Hooded Jackets Thick Fleece Military SolidColor Men Parkas Hooded Jackets Thick Fleece Military Jacket With Fur Collar Warm Windbreaker Casual Outdoor Parka Coat For MenJacket With Fur Collar Warm Windbreaker Casual Outdoor Parka Coat For Men",
+    "image": "../src/images/jacket.jpg",
+    "price": 212
+  },
+  {
+    "id": 4,
+    "title": "Sports Shoes For Men",
+    "info": "Fashion Men Sneaker Snickers Brand Sports Shoes For Men Tenisky Panske Canvas Shoes Rock Men Training Non-leather Casual Tennis Shoes",
+    "image": "../src/images/snickers.jpg",
+    "price": 343
+  },
+  {
+    "id": 5,
+    "title": "Solid Trousers Casual",
+    "info": "Men's Straight Solid Trousers Casual Fashion Business Trousers KhakiMen'sStraight Solid Trousers Casual Fashion Business Trousers Khaki Gray Red Black Plus Size 38 40 Spring Summer 2022 Gray Red Black Plus Size 38 40 Spring Summer 2022",
+    "image": "../src/images/trousers.jpg",
+    "price": 154
+  }
+]
